@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:amazon="http://schemas.amazon.com/apk/res/android"
+3    xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="capacitor.android.plugins" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="22"
+7-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.BLUETOOTH" />
+10-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:8:1-63
+10-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:8:18-61
+11    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+11-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:9:1-69
+11-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:9:18-67
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:10:1-76
+12-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:10:18-74
+13
+14    <application>
+14-->C:\Users\mohdz\Documents\GitHub\Senior_project\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:5:1-7:15
+15    </application>
+16
+17</manifest>
